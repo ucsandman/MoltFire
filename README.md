@@ -37,7 +37,7 @@ If you already have an AI agent with file-system access, copy and paste the foll
 
 ## 🤝 Community & Credits
 
-Created by **Wes Sander** (@uc_sandman) and **MoltFire** 🔥.
+Created by **Wes Sander** (@wes_sander) and **MoltFire** 🔥.
 
 Built for the **OpenClaw** ecosystem. Join the movement to reclaim your time through proactive AI agency.
 
